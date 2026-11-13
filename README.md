@@ -1,6 +1,6 @@
-## Practice with HTML and CSS
+# Practice with HTML and CSS
 
-# And Git as well, I suppose
+## And Git as well, I suppose
 
 *Wow!*
 
